@@ -11,34 +11,34 @@ Os padrões de design são soluções típicas para problemas comuns em design d
 
 ### Creational Patterns
 
-- [Singleton](/Creational/Singleton) (a fazer)
-- [Factory Method](/Creational/FactoryMethod) (a fazer)
-- [Abstract Factory](/Creational/AbstractFactory) (a fazer)
-- [Builder](/Creational/Builder) (a fazer)
-- [Prototype](/Creational/Prototype) (a fazer)
+- [Singleton](/Creational/Singleton)
+- [Factory Method](/Creational/FactoryMethod)
+- [Abstract Factory](/Creational/AbstractFactory)
+- [Builder](/Creational/Builder)
+- [Prototype](/Creational/Prototype)
 
 ### Structural Patterns
 
-- [Adapter](/Structural/Adapter) (a fazer)
-- [Composite](/Structural/Composite) (a fazer)
-- [Proxy](/Structural/Proxy) (a fazer)
-- [Flyweight](/Structural/Flyweight) (a fazer)
-- [Facade](/Structural/Facade) (a fazer)
-- [Bridge](/Structural/Bridge) (a fazer)
-- [Decorator](/Structural/Decorator) (a fazer)
+- [Adapter](/Structural/Adapter)
+- [Composite](/Structural/Composite)
+- [Proxy](/Structural/Proxy)
+- [Flyweight](/Structural/Flyweight)
+- [Facade](/Structural/Facade)
+- [Bridge](/Structural/Bridge)
+- [Decorator](/Structural/Decorator)
 
 ### Behavioral Patterns
 
-- [Observer](/Behavioral/Observer) (a fazer)
-- [Command](/Behavioral/Command) (a fazer)
-- [Iterator](/Behavioral/Iterator) (a fazer)
-- [State](/Behavioral/State) (a fazer)
-- [Visitor](/Behavioral/Visitor) (a fazer)
-- [Mediator](/Behavioral/Mediator) (a fazer)
-- [Memento](/Behavioral/Memento) (a fazer)
-- [Interpreter](/Behavioral/Interpreter) (a fazer)
-- [Chain of Responsibility](/Behavioral/ChainOfResponsibility) (a fazer)
+- [Observer](/Behavioral/Observer)
+- [Command](/Behavioral/Command)
+- [Iterator](/Behavioral/Iterator)
+- [State](/Behavioral/State)
+- [Visitor](/Behavioral/Visitor)
+- [Mediator](/Behavioral/Mediator)
+- [Memento](/Behavioral/Memento)
+- [Interpreter](/Behavioral/Interpreter)
+- [Chain of Responsibility](/Behavioral/ChainOfResponsibility)
 - [Strategy Pattern](./Behavioral/Strategy/readme.md)
 
 
-
+Curso desenvolvido por Nataniel Paiva, concluído 18 de Novembro de 2024 por Diego Espindola, duração total de vídeo 2.5 horas.
